@@ -38,7 +38,9 @@
   },
   "scripts": {
     "pretest": "rollup -c",
+    "postinstall": "rollup -c",
     "test": "mocha",
-    "dev": "mocha --watch"
+    "dev": "rollup -cw",
+    "devtest": "mocha --watch"
   }
 }

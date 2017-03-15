@@ -5,7 +5,7 @@ A Rollup.js plugin to compile Stylus files to css for importing into web compone
 ## Installation
 
 ```bash
-npm install --save-dev robhicks/rollup-plugin-stylus-import
+npm i https://github.com/robhicks/rollup-plugin-stylus-import -D
 ```
 
 ## Usage
