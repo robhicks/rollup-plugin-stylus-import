@@ -1,7 +1,7 @@
 {
   "name": "rollup-plugin-stylus-import",
   "description": "A Rollup.js plugin to compile Stylus to css only",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "So What",
   "homepage": "https://github.com/robhicks/rollup-plugin-stylus-import",
   "license": "MIT",
