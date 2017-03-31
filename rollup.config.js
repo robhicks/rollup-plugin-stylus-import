@@ -1,9 +1,9 @@
-const buble = require('rollup-plugin-buble');
+const babel = require('rollup-plugin-babel');
 
 module.exports = {
 	entry: 'src/index.js',
 	plugins: [
-		buble()
+		babel()
 	],
 	external: [
 		'fs',
